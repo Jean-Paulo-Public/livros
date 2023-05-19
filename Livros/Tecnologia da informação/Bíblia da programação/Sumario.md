@@ -1,0 +1,5 @@
+- Lógica de programação
+- Portugol
+- Regra de negócio
+- Antecipação de problemas
+- Correção de BUGS
